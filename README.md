@@ -1,1 +1,1 @@
-# William_and_Mary
+# Sample Repository
